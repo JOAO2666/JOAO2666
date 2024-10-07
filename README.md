@@ -23,7 +23,7 @@
 <p>🎲 Tiro fotos no <a href="https://www.instagram.com/life_ujoaozinho/" target="_blank">Instagram.to</a></p>
 
 <h3>Ultimas postagens:</h3>
-<a href="https://dev.to/clintonrocha98/primeiros-passos-no-docker-m0k" target="_blank](https://www.instagram.com/p/CcjI4xkuJ7MRsVWeNZEAx2tDreSsGI0hVN_LKY0/">- Fotos artisticas</a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-emanuel-almeida-ramos-80252410b/" target="_blank](https://www.instagram.com/p/CcjI4xkuJ7MRsVWeNZEAx2tDreSsGI0hVN_LKY0/">- Fotos artisticas</a>
 <br/>
 <a href="https://www.instagram.com/p/CFU4TA_J_3eZZ2_XY8gsCNVHORUKGD_3kvwKEA0/" target="_blank">- Lidando com fotos: como fazer imagens práticos e elegantes no Lightroom js</a>
 <br/>
