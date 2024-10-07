@@ -20,7 +20,7 @@
 <p align="left">✨ Desenvolvedor Back End</p>
 <p align="left">👻 20 Anos</p>
 <p align="left">🏖 Juazeiro - BA</p>
-<p>🎲 Tiro fotos no <a href="https://dev.to/clintonrocha98](https://www.instagram.com/life_ujoaozinho/" target="_blank">Instagram.to</a></p>
+<p>🎲 Tiro fotos no <a href="https://www.instagram.com/life_ujoaozinho/" target="_blank">Instagram.to</a></p>
 
 <h3>Ultimas postagens:</h3>
 <a href="https://dev.to/clintonrocha98/primeiros-passos-no-docker-m0k" target="_blank](https://www.instagram.com/p/CcjI4xkuJ7MRsVWeNZEAx2tDreSsGI0hVN_LKY0/">- Fotos artisticas</a>
