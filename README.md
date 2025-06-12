@@ -22,7 +22,7 @@
 
 <p align="center">
   Sou um Desenvolvedor Back-end apaixonado por criar soluções robustas e eficientes.<br/>
-  Atualmente focado em tecnologias JavaScript/TypeScript, como Node.js e Next.js.<br/>
+  Atualmente focado em Linguagem C, Python,CSS e HTML.<br/>
   Sempre buscando aprender e aplicar as melhores práticas de desenvolvimento.
 </p>
 
