@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://i.imgur.com/JzW5l4z.png" alt="Banner" width="100%"/>
 </div>
+<h1 align="center">🔥 Bem-vindo ao meu perfil GitHub 🔥</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;Me+chamo+Jo%C3%A3o+Emanuel;Sou+Desenvolvedor+Back+End" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&width=435&lines=Desenvolvedor+Back+End;Engenharia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
@@ -64,10 +65,10 @@ Você pode adicionar mais imagens de projetos duplicando a linha de `img`.
 
 <h2 align="center">📫 Entre em Contato 📫</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-emanuel-200937213/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-emanuel-80252410b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/joao.emanuel.26/" target="_blank">
+  <a href="https://www.instagram.com/ujoaozinho266/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://x.com/JoaoEmanuel_" target="_blank">
