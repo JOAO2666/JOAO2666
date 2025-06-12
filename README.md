@@ -8,6 +8,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZmemRjZHV3ZnRqc3h5d29rZGNwYTd3cHNpOTdmb2N4MHB2ZTZ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" width="400"/>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&width=435&lines=Desenvolvedor+Back+End;Engenharia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  </a>
+</div>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Sobre Mim 👨‍💻</h2></summary>
@@ -22,63 +28,105 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conecte-se Comigo 🤝</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SEU_LINKEDIN" height="30" width="40" /></a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SEU_INSTAGRAM" height="30" width="40" /></a>
-  <a href="https://twitter.com/SEU_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SEU_TWITTER" height="30" width="40" /></a>
-</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias e Ferramentas 🛠️</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Estatísticas do GitHub 📊</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joao2666&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do JOAO2666" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao2666&layout=compact&locale=pt-br&theme=dracula" alt="Top Linguagens do JOAO2666" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao2666&theme=dracula" alt="Sequência de Contribuições no GitHub" />
-</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Cobra das Contribuições 🐍</h2></summary>
+    <summary><h2 style="display: inline-block">🤝 Conecte-se Comigo</h2></summary>
   </ul>
 </div>
 
 <div align="center">
-  <img src="https://github.com/joao2666/joao2666/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-emanuel-80252410b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/ujoaozinho266/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://x.com/JoaoEmanuel_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">⚡ Tecnologias & Ferramentas</h2></summary>
+  </ul>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</div>
+
+<br>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🏆 Conquistas</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=joao2666&theme=dracula&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophy">
+  </a>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📊 Estatísticas do GitHub</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao2666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao2666&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joao2666&theme=dracula&hide_border=false" />
+  </a>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🚀 Projetos em Destaque</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=joao2666&repo=Solu-o-da-atividad&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=joao2666&repo=biblioteca-django&theme=dracula" />
+  </a>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🐍 Cobra das Contribuições</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/joao2666/joao2666/output/snake.svg" alt="Snake animation">
 </div>
 
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joao2666&label=Profile%20views&color=0e75b6&style=flat" alt="Contador de Visitas" />
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJOAO2666&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITANTES&edge_flat=false"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=line&color=auto&height=150&section=footer"/>
 </p> 
