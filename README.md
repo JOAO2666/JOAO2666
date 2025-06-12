@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devsuperior/devsuperior-assets/main/banners/banner-welcome.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/devsuperior/devsuperior-assets/main/banners/banner-backend.png" alt="Banner Back-end Developer" width="600"/>
 </div>
 <h1 align="center">🔥 Bem-vindo ao meu perfil GitHub 🔥</h1>
 <div align="center">
@@ -47,19 +47,12 @@
 <br>
 
 <h2 align="center">🚀 Projetos em Destaque 🚀</h2>
-<!--
-Para adicionar seus projetos, basta descomentar as linhas abaixo e substituir `SEU_REPO_AQUI` pelo nome do seu repositório.
-Você pode adicionar mais imagens de projetos duplicando a linha de `img`.
--->
-<!--
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=joao2666&repo=SEU_REPO_AQUI&theme=dracula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=joao2666&repo=SEU_REPO_AQUI&theme=dracula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=joao2666&repo=SEU_REPO_AQUI&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=joao2666&repo=Solu-o-da-ativida&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=joao2666&repo=biblioteca-django&theme=dracula" />
   </a>
 </div>
--->
 
 <br>
 
@@ -74,9 +67,6 @@ Você pode adicionar mais imagens de projetos duplicando a linha de `img`.
   <a href="https://x.com/JoaoEmanuel_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://vsco.co/joaoemanuel26/gallery" target="_blank">
-    <img src="https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=vsco&logoColor=white" alt="VSCO">
-  </a>
 </div>
 
 <div align="center">
@@ -84,5 +74,11 @@ Você pode adicionar mais imagens de projetos duplicando a linha de `img`.
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/joao2666/count.svg" alt="Visitors count">
-</div> 
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJOAO2666&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITANTES&edge_flat=false"/>
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=line&color=auto&height=150&section=footer"/>
+</p> 
