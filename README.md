@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devsuperior/devsuperior-assets/main/banners/banner-backend.png" alt="Banner Back-end Developer" width="600"/>
+  <img src="https://raw.githubusercontent.com/devsuperior/devsuperior-assets/main/banners/ds-meta-backend.png" alt="Banner Back-end Developer" width="100%"/>
 </div>
 <h1 align="center">🔥 Bem-vindo ao meu perfil GitHub 🔥</h1>
 <div align="center">
@@ -49,7 +49,7 @@
 <h2 align="center">🚀 Projetos em Destaque 🚀</h2>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=joao2666&repo=Solu-o-da-ativida&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=joao2666&repo=Solu-o-da-atividad&theme=dracula" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=joao2666&repo=biblioteca-django&theme=dracula" />
   </a>
 </div>
@@ -73,11 +73,11 @@
   <img src="https://raw.githubusercontent.com/joao2666/joao2666/output/snake.svg" alt="Snake animation">
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJOAO2666&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITANTES&edge_flat=false"/>
   </a>
-</div>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=line&color=auto&height=150&section=footer"/>
