@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/JzW5l4z.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/devsuperior/devsuperior-assets/main/banners/banner-welcome.png" alt="Banner" width="100%"/>
 </div>
 <h1 align="center">🔥 Bem-vindo ao meu perfil GitHub 🔥</h1>
 <div align="center">
