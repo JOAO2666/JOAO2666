@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center">
-  💻 Transformando problemas complexos em soluções dinâmicas.
+  Transformando problemas complexos em soluções dinâmicas.
 </h1>
 
 <p align="center">
-  🎓 <strong>Engenharia de Computação</strong> (UNIVASF) • <strong>Administração</strong> (IFBA) • Residência Back-End Python (<strong>CEPEDI</strong>) <br>
+  <strong>Engenharia de Computação</strong> (UNIVASF) • <strong>Administração</strong> (IFBA) • Residência Back-End Python (<strong>CEPEDI</strong>) <br>
   Atuando no limite entre o software e o hardware: <i>Sistemas Embarcados, Visão Computacional, IA e Automação de Processos</i>.
 </p>
 
@@ -27,7 +27,7 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" width="45%" style="border: none; vertical-align: top;">
-      <h2>🛠️ Minhas Ferramentas</h2>
+      <h2>Minhas Ferramentas</h2>
       <!-- Skill Icons (Design Moderno) -->
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,c,linux,html,css,js,github,vscode&perline=4" alt="My Skills" />
@@ -38,13 +38,13 @@
       </p>
     </td>
     <td align="center" width="55%" style="border: none; vertical-align: top;">
-      <h2>🚀 Experiência & Foco</h2>
+      <h2>Experiência & Foco</h2>
       <div align="left" style="padding-left: 10px;">
         <ul>
-          <li>⚡ <b>Desenvolvimento Back-End:</b> Construção de rotinas e lógica robusta com Python (Residência CEPEDI).</li>
-          <li>⚙️ <b>Sistemas Embarcados & IoT:</b> Integração entre sensores e software, incluindo visão computacional para automação.</li>
-          <li>🤖 <b>Automação:</b> Aplicação de scripts para ganho de produtividade (Ex: Otimização Acadêmica no IFBA).</li>
-          <li>🎨 <b>Design & Gestão:</b> Vivência em organização de banco de dados e design digital para comunicação.</li>
+          <li><b>Desenvolvimento Back-End:</b> Construção de rotinas e lógica robusta com Python (Residência CEPEDI).</li>
+          <li><b>Sistemas Embarcados & IoT:</b> Integração entre sensores e software, incluindo visão computacional para automação.</li>
+          <li><b>Automação:</b> Aplicação de scripts para ganho de produtividade (Ex: Otimização Acadêmica no IFBA).</li>
+          <li><b>Design & Gestão:</b> Vivência em organização de banco de dados e design digital para comunicação.</li>
         </ul>
       </div>
     </td>
@@ -53,15 +53,15 @@
 
 <br>
 
-<h2 align="center">📈 Atividade & Contribuições</h2>
+<h2 align="center">Atividade & Contribuições</h2>
 
 <p align="center">
   <a href="https://github.com/JOAO2666">
     <!-- Status customizados com fundo transparente e cores minimalistas/cyberpunk -->
-    <img src="https://github-readme-stats.vercel.app/api?username=JOAO2666&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&text_color=888888&icon_color=00e1ff&title_color=00e1ff" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JOAO2666&show_icons=true&theme=transparent&hide_border=true&text_color=888888&icon_color=00e1ff&title_color=00e1ff" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/JOAO2666">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO2666&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&text_color=888888&title_color=00e1ff" alt="Top Linguagens" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO2666&layout=compact&theme=transparent&hide_border=true&text_color=888888&title_color=00e1ff" alt="Top Linguagens" />
   </a>
 </p>
 
