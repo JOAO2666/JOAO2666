@@ -1,92 +1,71 @@
-<div align="center">
+<!-- Header Dinâmico -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=João%20Emanuel&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Back-End%20%7C%20IoT&descAlignY=55" alt="João Emanuel Header" />
+</p>
 
-# 👋 Olá, eu sou o João Emanuel!
+<h1 align="center">
+  💻 Transformando problemas complexos em soluções dinâmicas.
+</h1>
 
-**Software Engineer | Back-End Developer | Python & Embedded Systems Enthusiast**
+<p align="center">
+  🎓 <strong>Engenharia de Computação</strong> (UNIVASF) • <strong>Administração</strong> (IFBA) • Residência Back-End Python (<strong>CEPEDI</strong>) <br>
+  Atuando no limite entre o software e o hardware: <i>Sistemas Embarcados, Visão Computacional, IA e Automação de Processos</i>.
+</p>
 
-[![Currículo Lattes](https://img.shields.io/badge/-Currículo%20Lattes-0052CC?style=for-the-badge&logo=lattes&logoColor=white)](https://lattes.cnpq.br/5769910405610807)
-[![GitHub followers](https://img.shields.io/github/followers/JOAO2666?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/JOAO2666)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ujoaozinho266)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=00e1ff&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-End;Apaixonado+por+Python+e+C;Soluções+em+Automação+e+IoT;Sistemas+Embarcados+e+IA)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🚀 Sobre Mim
-
-Sou um profissional focado no desenvolvimento de **Software Back-End**, com forte base em automação, inteligência artificial para sistemas embarcados e design digital. Combino minha formação em **Engenharia de Computação** e **Administração** para entregar soluções tecnológicas que não apenas resolvem problemas estruturais, mas otimizam processos de ponta a ponta.
-
-- 🔭 Atualmente integrando a **Residência em Software Back-End (Python)** no CEPEDI (Centro de Pesquisa, Desenvolvimento Tecnológico e Inovação).
-- 🌱 Estudando continuamente **Aplicações Industriais (IoT)**, **Visão Computacional Embarcada** e **Modelos de Linguagem Compactos (SLMs)**.
-- 💼 Possuo experiência prática no setor de Comunicação do **IFBA**, lidando com automação de processos, banco de dados e design de produtos digitais.
-
----
-
-## 🛠️ Tech Stack & Ferramentas
-
-<div align="center">
-
-### 💻 Linguagens Principais
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Prolog](https://img.shields.io/badge/-Prolog-78A038?style=for-the-badge&logo=prolog&logoColor=white)
-
-### 🌐 Tecnologias Web & Design
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Áreas de Foco & Hardware
-![IoT](https://img.shields.io/badge/-IoT%20&%20Sensors-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/-Predictive%20Analysis-FF6B6B?style=for-the-badge&logo=dataiku&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-000000?style=for-the-badge&logo=microchip&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 🎓 Formação Acadêmica & Extensão
-
-| Instituição | Curso / Especialização | Período |
-|-------------|-----------------------|---------|
-| **UNIVASF** | Graduação em Engenharia de Computação | 2025 |
-| **CEPEDI** | Residência em Software - Back-End Python (560h) | 2024 |
-| **IFBA** | Graduação em Administração | 2020 - 2023 |
-| **FIT** | Cursos em IoT, IA, SLMs, Circuitos e Sistemas Embarcados | 2026 |
+<p align="center">
+  <a href="https://lattes.cnpq.br/5769910405610807" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar-Currículo%20Lattes-0052CC?style=for-the-badge&logo=lattes&logoColor=white" alt="Lattes" />
+  </a>
+  <a href="https://instagram.com/ujoaozinho266" target="_blank">
+    <img src="https://img.shields.io/badge/Seguir-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 <br>
 
-*💡 Destaque:* Meu TCC no IFBA foi voltado à **Automatização de Processos usando Python para Otimização Acadêmica**.
+<!-- Seção Dividida com Tabela (Garante layout lado a lado impecável no GitHub) -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="45%" style="border: none; vertical-align: top;">
+      <h2>🛠️ Minhas Ferramentas</h2>
+      <!-- Skill Icons (Design Moderno) -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,c,linux,html,css,js,github,vscode&perline=4" alt="My Skills" />
+      </a>
+      <br><br>
+      <p align="center">
+        <code>Prolog</code> <code>IoT</code> <code>Visão Computacional</code> <code>IA (SLMs)</code>
+      </p>
+    </td>
+    <td align="center" width="55%" style="border: none; vertical-align: top;">
+      <h2>🚀 Experiência & Foco</h2>
+      <div align="left" style="padding-left: 10px;">
+        <ul>
+          <li>⚡ <b>Desenvolvimento Back-End:</b> Construção de rotinas e lógica robusta com Python (Residência CEPEDI).</li>
+          <li>⚙️ <b>Sistemas Embarcados & IoT:</b> Integração entre sensores e software, incluindo visão computacional para automação.</li>
+          <li>🤖 <b>Automação:</b> Aplicação de scripts para ganho de produtividade (Ex: Otimização Acadêmica no IFBA).</li>
+          <li>🎨 <b>Design & Gestão:</b> Vivência em organização de banco de dados e design digital para comunicação.</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">📈 Atividade & Contribuições</h2>
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JOAO2666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO2666&layout=compact&langs_count=7&theme=dracula"/>
+<p align="center">
+  <a href="https://github.com/JOAO2666">
+    <!-- Status customizados com fundo transparente e cores minimalistas/cyberpunk -->
+    <img src="https://github-readme-stats.vercel.app/api?username=JOAO2666&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&text_color=888888&icon_color=00e1ff&title_color=00e1ff" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/JOAO2666">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO2666&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&text_color=888888&title_color=00e1ff" alt="Top Linguagens" />
+  </a>
+</p>
 
-</div>
-
----
-
-## 🎯 Expertise & Interesses Atuais
-
-- 🤖 **Inteligência Artificial e SLMs** - Otimização de modelos para sistemas embarcados.
-- ⚡ **Sistemas Embarcados & IoT** - Análise preditiva com dados de sensores e visão computacional.
-- 🏗️ **Arquitetura Back-End** - Criação de rotinas e APIs robustas utilizando Python.
-- 🎨 **UI/UX e Design Digital** - Prototipação e criação de identidade visual para produtos.
-
-<div align="center">
-
-### 🌟 "Transformando problemas complexos em soluções elegantes e automatizadas."
-
-![Profile Views](https://komarev.com/ghpvc/?username=JOAO2666&color=00e1ff&style=for-the-badge)
-
-</div>
+<!-- Footer Dinâmico -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer" />
+</p>
